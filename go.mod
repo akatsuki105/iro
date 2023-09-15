@@ -1,3 +1,3 @@
-module github.com/pokemium/iro
+module github.com/akatsuki105/iro
 
-go 1.18
+go 1.21
